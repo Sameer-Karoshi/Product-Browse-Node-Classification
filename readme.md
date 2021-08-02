@@ -18,7 +18,7 @@ Important Note:
 In case you are using pandas to read the csv train and test datasets, use escapechar = "\\" and quoting = csv.QUOTE_NONE options with read_csv to avoid errors during import.
 
 ## Solution:
-This problem is the multiclass problem. It is solved by using two methods.
+This problem is the multiclass classification problem. It is solved by using two methods.
 
 1. Information Retrieval
 2. Using H2O
